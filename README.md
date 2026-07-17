@@ -2,6 +2,10 @@
 
 A simple command-line **Phonebook Management System** built using Python and Dictionary data structure. This project allows users to store and manage contacts through a menu-driven interface.
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Level](https://img.shields.io/badge/Level-Beginner-orange)
+
 ## 🚀 Features
 
 ✅ Add New Contacts
